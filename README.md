@@ -1,3 +1,5 @@
+# PYTHON TIPS & TRICS
+
 ## File operations
 
 ### Use `r` before the file path to indicate that it is a raw string, meaning that backslashes (`\`) are treated as literal characters and not as escape sequences.
